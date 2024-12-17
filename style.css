@@ -1,0 +1,49 @@
+.container{
+    padding: 103px 149px 58px 158px;
+    font-family: "Poppins", sans-serif;
+}
+
+h2{
+    margin-bottom: 76px;
+    color: #323232;
+    font-weight: 700;
+    font-size: 42px;
+    line-height: 62px;
+}
+
+.cards{
+    display: flex;
+}
+
+.card{
+    margin-right: 30px;
+    background-color: white;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    transition: box-shadow 0.3s ease;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.card:hover {
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+
+
+.text{
+    margin: 0px 29px 0px 29px;
+}
+.info{
+    color: #323232;
+}
+
+h4{
+    color: #323232;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 27px;
+}
+
+.color_txt {
+    color: #58BEBF;
+}
